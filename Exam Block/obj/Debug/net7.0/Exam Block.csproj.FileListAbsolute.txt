@@ -1,0 +1,15 @@
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\bin\Debug\net7.0\Exam Block.exe
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\bin\Debug\net7.0\Exam Block.deps.json
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\bin\Debug\net7.0\Exam Block.runtimeconfig.json
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\bin\Debug\net7.0\Exam Block.dll
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\bin\Debug\net7.0\Exam Block.pdb
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\Exam Block.csproj.AssemblyReference.cache
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\Exam Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\Exam Block.AssemblyInfoInputs.cache
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\Exam Block.AssemblyInfo.cs
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\Exam Block.csproj.CoreCompileInputs.cache
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\Exam Block.dll
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\refint\Exam Block.dll
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\Exam Block.pdb
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\Exam Block.genruntimeconfig.cache
+C:\Users\Adam\OneDrive\Рабочий стол\Git C#\HomeWor2\H_W_2_seminar\Exam Block\obj\Debug\net7.0\ref\Exam Block.dll
